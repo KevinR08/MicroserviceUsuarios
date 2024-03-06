@@ -30,4 +30,4 @@ jobs:
         with:
           vercel-token: 38KtTfoizDDgXsbgKeqO44tf
           vercel-org-id: team_H6lknTBP4ChWtZaLmCMgI0rS
-          vercel-project-id: prj_lX3U1bxbE7k59bcY8Tqh5Npgg2Bq
+          vercel-project-id: prj_4RUOc6exx0UsZWCV2TlZVBoBAUJD
